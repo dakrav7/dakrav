@@ -1062,7 +1062,7 @@ form label {
 @media screen and (max-width: 768px) {
   .couple-half {
     width: 100%;
-  }
+  
 }
 .couple-half h3 {
   font-family: "Sacramento", Arial, serif;
@@ -1077,7 +1077,7 @@ form label {
   border-radius: 50%;
   width: 150px;
   height: 150px;
-  object-fit: contain;
+
 }
 .couple-half .groom img, .couple-half .bride img {
   width: 150px;
@@ -1086,6 +1086,7 @@ form label {
   -moz-border-radius: 50%;
   -ms-border-radius: 50%;
   border-radius: 50%;
+  object-fit: contain;
 }
 @media screen and (max-width: 480px) {
   .couple-half .groom, .couple-half .bride {
