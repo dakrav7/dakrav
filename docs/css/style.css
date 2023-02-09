@@ -1077,6 +1077,7 @@ form label {
   border-radius: 50%;
   width: 150px;
   height: 150px;
+  object-fit: contain;
 }
 .couple-half .groom img, .couple-half .bride img {
   width: 150px;
